@@ -20,4 +20,4 @@ workspaces = "0.4.0"
 
 [[example]]
 name = "integration-tests"
-path = "src/tests.rs"
+path = "src/main.rs"
