@@ -5,7 +5,7 @@ use workspaces::prelude::*;
 use workspaces::{network::Sandbox, Account, Contract, Worker, AccountId};
 
 const BIKE_WASM_FILEPATH: &str = "../../out/main.wasm";
-const FT_CONTRACT_ACCOUNT: &str = "sub.ft_account.testnet"; // <- あなたのftコントラクトをデプロイしたアカウント名に変更してください
+const FT_CONTRACT_ACCOUNT: &str = "sub.sora0513.testnet"; // <- あなたのftコントラクトをデプロイしたアカウント名に変更してください
 
 const FT_TOTAL_SUPPLY: u128 = 1000;
 
