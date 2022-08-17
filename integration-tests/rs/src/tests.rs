@@ -1,6 +1,3 @@
-fn main() {
-    println!("Hello, world!");
-}
 use near_sdk::json_types::U128;
 use near_units::{parse_near};
 use serde_json::json;
